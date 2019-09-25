@@ -1,4 +1,4 @@
 +++
-title = "About Syna"
-date = "2017-10-05"
+title = "About Dr. Salina Chan"
+date = "2019-09-24"
 +++

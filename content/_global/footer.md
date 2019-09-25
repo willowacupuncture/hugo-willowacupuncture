@@ -1,21 +1,14 @@
 +++
 fragment = "footer"
 #disabled = true
-date = "2016-09-07"
+date = "2019-09-24"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+menu_title = "Site Index"
 
-[asset]
-  title = "Logo Title"
-  image = "logo.svg"
-  text = "Logo Subtext"
-  url = "#"
 +++
 
-#### Description Title
+#### Dr. Salina Chan ND, LAc, DAOM
 
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+Naturopathic Physician. Licensed Acupuncture. Doctor of Acupuncture and Oriental Medicine.

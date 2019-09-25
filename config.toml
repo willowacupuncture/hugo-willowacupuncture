@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Dr. Salina Chan"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.0"
@@ -17,8 +17,8 @@ date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Dr. Salina Chan"
+  description = "Naturopathic Physician. Licensed Acupuncture. Doctor of Acupuncture and Oriental Medicine."
 
   [params.style]
     #background = "secondary"
@@ -65,47 +65,61 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.main]]
   url = "/about"
-  name = "About Us"
+  name = "About Dr. Chan"
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
-  name = "Contact"
+  url = "/services"
+  name = "Services"
   weight = 30
 
+[[menu.main]]
+  url = "/clinic"
+  name = "Clinic"
+  weight = 40
+
+[[menu.main]]
+  url = "/contact"
+  name = "Contact"
+  weight = 50
+
 [[menu.footer]]
-  url = "#"
-  name = "Link"
+  url = "/"
+  name = "Home"
   weight = 10
 
 [[menu.footer]]
-  url = "#"
-  name = "Long Link"
+  url = "/about"
+  name = "About Dr. Chan"
+  weight = 20
+
+[[menu.footer]]
+  url = "/services"
+  name = "Services"
   weight = 30
 
 [[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
-  weight = 30
+  url = "/clinic"
+  name = "Clinic"
+  weight = 40
+
+[[menu.footer]]
+  url = "/contact"
+  name = "Contact"
+  weight = 50
 
 [[menu.copyright_footer]]
   url = "/about"
-  name = "About Us"
+  name = "About"
   weight = 10
 
 [[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
+  url = "/contact"
+  name = "Contact"
   weight = 30
-
-[[menu.footer_social]]
-  weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
 
 [[menu.footer_social]]
   weight = 30
   name = "linkedin"
   pre = "fab fa-linkedin-in"
-  url = "#"
+  url = "https://www.linkedin.com/in/salina-chan-82866a8/"
