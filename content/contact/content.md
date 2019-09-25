@@ -16,7 +16,7 @@ title = "Contact Dr. Salina Chan"
 [salina@drsalinachan.com](mailto:salina@drsalinachan.com)
 
 #### Address
-[Westfield Office Park<br>
+[Westhill Office Park<br>
 1800 Cooper Point Road SW, Building 2<br>
 Olympia, WA 98502](https://www.google.com/maps/place/1800+Cooper+Point+Rd+SW+%23+2,+Olympia,+WA+98502)
 
