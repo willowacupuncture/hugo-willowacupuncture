@@ -9,6 +9,6 @@ menu_title = "Site Index"
 
 +++
 
-#### Dr. Salina Chan ND, LAc, DAOM
+#### Dr. Salina Chan
 
 Naturopathic Physician. Licensed Acupuncture. Doctor of Acupuncture and Oriental Medicine.

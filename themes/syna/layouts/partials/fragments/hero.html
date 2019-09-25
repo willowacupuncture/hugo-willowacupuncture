@@ -72,7 +72,7 @@
           <h1 class="overlay jumbotron-heading
             {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
           ">
-            {{- . -}}
+            {{- . | safeHTML -}}
           </h1>
         </div>
       {{- end -}}
