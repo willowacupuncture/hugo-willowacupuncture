@@ -14,10 +14,10 @@ Dr. Chan's practice includes general medicine, musculoskeletal disorders, pain s
 ---
 
 ### Office Hours
-* Monday: 1:00pm-6:00pm
-* Tuesday: 9:00am-2:00pm
-* Thursday: 1:00pm-6:00pm
-* Friday: 1:00pm-6:00pm
+Monday: 1:00pm - 6:00pm<br>
+Tuesday: 9:00am - 2:00pm<br>
+Thursday: 1:00pm - 6:00pm<br>
+Friday: 1:00pm - 6:00pm
 
 ---
 
