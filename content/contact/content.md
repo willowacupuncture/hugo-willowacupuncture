@@ -10,7 +10,7 @@ title = "Contact Dr. Salina Chan"
 +++
 
 #### Phone
-[(360)768-1127](tel:+13607681127)
+[(360) 768-1127](tel:+13607681127)
 
 #### E-mail
 [salina@drsalinachan.com](mailto:salina@drsalinachan.com)

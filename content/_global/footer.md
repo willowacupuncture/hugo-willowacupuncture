@@ -11,12 +11,12 @@ menu_title = "Site Index"
 
 #### Dr. Salina Chan
 
-Naturopathic Physician. Licensed Acupuncture. Doctor of Acupuncture and Oriental Medicine.
+Naturopathic Physician. Licensed Acupuncturist. Doctor of Acupuncture and Oriental Medicine.
 
 [Westhill Office Park<br>
 1700 Cooper Point Road SW, Suite B1<br>
 Olympia, WA 98502](https://www.google.com/maps/place/1700+Cooper+Point+Rd+SW+STE+B1,+Olympia,+WA+98502)<br>
-[(360)768-1127](tel:+13607681127)<br>
+[(360) 768-1127](tel:+13607681127)<br>
 [salina@drsalinachan.com](mailto:salina@drsalinachan.com)
 
 Monday: 1:00pm - 6:00pm<br>

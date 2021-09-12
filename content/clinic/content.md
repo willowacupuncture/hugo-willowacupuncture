@@ -27,7 +27,7 @@ Friday: 9:00am - 2:00pm
 Olympia, WA 98502](https://www.google.com/maps/place/1700+Cooper+Point+Rd+SW+STE+B1,+Olympia,+WA+98502)
 
 #### Phone
-[(360)768-1127](tel:+13607681127)
+[(360) 768-1127](tel:+13607681127)
 
 #### E-mail
 [salina@drsalinachan.com](mailto:salina@drsalinachan.com)
