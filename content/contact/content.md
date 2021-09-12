@@ -17,7 +17,7 @@ title = "Contact Dr. Salina Chan"
 
 #### Address
 [Westhill Office Park<br>
-1800 Cooper Point Road SW, Building 2<br>
-Olympia, WA 98502](https://www.google.com/maps/place/1800+Cooper+Point+Rd+SW+%23+2,+Olympia,+WA+98502)
+1700 Cooper Point Road SW, Suite B1<br>
+Olympia, WA 98502](https://www.google.com/maps/place/1700+Cooper+Point+Rd+SW+STE+B1,+Olympia,+WA+98502)
 
 ---
