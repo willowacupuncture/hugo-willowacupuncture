@@ -39,7 +39,7 @@ Dr. Chan has over 15 years of clinical experience. She worked and trained with h
 * Advanced Clinical Training, Chengdu University of Traditional Chinese Medicine Department of Internal Medicine, Chengdu, China - 2007
 * Private Practice, Washington State Acupuncture and Chinese Medicine Center, Seattle, WA - 2004-2013
 * Private Practice, Yuba City Acupuncture and Natural Medicine, Yuba City, CA - 2013-2018
-* Adjunct Clinical Faculty, Seattle Institute of East Asian Medicine, Seattle, WA - 2021-current
+* Adjunct Clinical Faculty, Seattle Institute of East Asian Medicine, Seattle, WA - 2021
 * Private Practice, Willow Tree Acupuncture and Natural Medicine, Olympia, WA - 2018-current
 
 ---
