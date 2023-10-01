@@ -13,7 +13,7 @@ title = "Clinical Services"
 
 ## Overview
 
-Dr. Salina Chan utilizes a combined modality approach of [Acupuncture](#acupuncture), [Chinese Herbal Medicine](#chinese-herbal-medicine), and [Naturopathic Medicine](#naturopathic-medicine). An overview of each modality is explained below. Dr. Chan has special interests in the treatment and management of [infertility](#treatment-of-infertility), general women's health, and hormone imbalance.
+Dr. Salina Chan utilizes a combined modality approach of [Acupuncture](#acupuncture), [Chinese Herbal Medicine](#chinese-herbal-medicine), and [Naturopathic Medicine](#naturopathic-medicine). An overview of each modality is explained below.
 
 ---
 
@@ -49,31 +49,5 @@ Naturopathic Medicine is a distinctively natural approach to health and healing 
 Naturopathic doctors undergo four years of medical training after completing an undergraduate bachelor degree. The first two years are similar to their MD counterparts, in which the basic medical science subjects such as anatomy, physiology, biochemistry, and pathology are taught. The last two years of clinical training include studies in areas such as nutrition, botanical medicine, physical medicine, and pharmacology. Naturopathic doctors are required to complete a rigorous clinical training program prior to graduation. They are required to pass a licensing board exam administered by the Department of Health.
 
 Naturopathic doctors can use both conventional laboratory testing techniques such as blood test and X-Rays along with other nutritional and hormone testings. Dr. Chan utilizes a variety of diagnostic techniques such as laboratory blood test, saliva testing, and various fuctional medicine diagnostics. Dr. Chan uses botanical medicine, supplementation, bio-identical hormone therapy, acupuncture, and lifestyle modification as possible treatment options.
-
----
-
-## Treatment of Infertility
-Acupuncture and Chinese Medicine have been used to support fertility for several thousand years. Recent clinical studies have shown that they can be helpful in aiding modern reproductive techniques such as In-Vitro Fertilization (IVF).
-
-These are goals of acupuncture treatment and IVF:
-
-* To improve the function of the ovaries to produce better quality eggs
-* To regulate hormones to produce a larger number of follicles
-* To promote uterine relaxation and reduce stress level
-* To increase blood flow to the pelvic region in order to optimize receptivity of embryo implants
-* To lessen side effects of drugs
-* To prevent miscarriages
-
-Acupuncture can be helpful for the following conditions which can attribute to infertility:
-
-* Hormonal imbalance
-* Uterine fibroid
-* Ovarian cyst
-* Anovulation
-* Luteal phase defect
-* Tubal blockage
-* Pelvic inflammatory disease
-
-There are many causes of infertility based on Chinese Medicine pattern differentiatons. By inserting needles into the acupuncture points in the body, it can balance internal organ disharmony thus restoring optimal energy and blood flow. When the body's Yin/Yang is returned to balance, it is able to support the process of conception and pregnancy.
 
 ---

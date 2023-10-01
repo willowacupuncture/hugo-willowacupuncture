@@ -14,10 +14,8 @@ Dr. Chan's practice includes general medicine, musculoskeletal disorders, pain s
 ---
 
 ### Office Hours
-Monday: 9:00am - 6:00pm<br>
-Tuesday: 12:00pm - 6:00pm<br>
-Thursday: 9:00am - 6:00pm<br>
-Friday: 9:00am - 6:00pm
+Monday: 9:30am - 4:00pm<br>
+Friday: 9:30am - 4:00pm
 
 ---
 
@@ -28,6 +26,9 @@ Olympia, WA 98502](https://www.google.com/maps/place/Dr.+Salina+Chan/@47.0334364
 
 #### Phone
 [(360) 768-1127](tel:+13607681127)
+
+#### FAX
+[(360) 688-7997](tel:+13606887997)
 
 #### E-mail
 [salina@drsalinachan.com](mailto:salina@drsalinachan.com)
